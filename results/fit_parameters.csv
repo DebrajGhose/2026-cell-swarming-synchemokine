@@ -1,0 +1,33 @@
+parameter,value
+k_cell (1/min),0.0002243306228201893
+Kd_auto (nM),0.01593855032169408
+bias_prim (tumor chemokine),2.619186973666712
+bias_auto (orthokine),1.1310656787038587
+rot_diffusion (rad²/min),0.16155601055116697
+CCL20 half-life (min) derived,3089.846458972
+lambda_cell (um) derived,1492.9343862787857
+Q_cell (nM um2/min) ELISA-CONSTRAINED,0.34305515320542457
+Q_prim (nM um2/min) FIXED,1.8381169467376703e6
+Q_prim from CXCL12 ELISA surface conc (nM),22.368851135413454
+peak CXCL12 deep in disk (nM),22.368851135413454
+k tumor (1/min) FIXED,0.026156497379620575
+Kd tumor (nM) FIXED,20.0
+D (um2/min) FIXED,500.0
+tumor cells assumed in the disk,35000
+intensity gain a,185.169702644631
+intensity background b,4.594792850578389
+R2 all profiles,0.939994517320865
+R2 Par pooled,0.8661047299293237
+R2 Par 24h,0.8666612586322872
+R2 Par 47h,0.9135796258259185
+R2 Par 72h,0.8080274143704076
+R2 CD19 pooled,0.9443887024186646
+R2 CD19 24h,0.8211282207203872
+R2 CD19 47h,0.9652477873707607
+R2 CD19 72h,0.9285929982007313
+recruited Par 24h,673.0
+recruited Par 47h,972.5
+recruited Par 72h,1221.25
+recruited CD19 24h,848.625
+recruited CD19 47h,1392.5
+recruited CD19 72h,1737.75
